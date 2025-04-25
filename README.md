@@ -1,6 +1,5 @@
 # Pet Bob - Estilo e Elegância para Cães e Gatos 🐾
 
-![Pet Bob Logo](img/patas.png)
 
 ## 📋 Sobre o Projeto
 
@@ -11,10 +10,6 @@ Pet Bob é um site moderno e responsivo desenvolvido para o meu portfolio. O sit
 Você pode acessar o site através do link abaixo:
 
 🔗 [https://marcellogabriell.github.io/pet-bob/](https://marcellogabriell.github.io/pet-bob/)
-
-<div align="center">
-  <img src="img/preview.png" alt="Preview do site Pet Bob" width="800">
-</div>
 
 
 ## ✨ Funcionalidades
